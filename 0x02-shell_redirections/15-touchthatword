@@ -1,2 +1,0 @@
-#!/bin/bas
-grep -c -i "bin" /etc/passwd
